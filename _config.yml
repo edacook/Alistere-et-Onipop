@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -27,3 +28,6 @@ twitter_username:   jekyllrb
 
 # Build settings
 markdown: kramdown
+=======
+theme: jekyll-theme-minimal
+>>>>>>> a6e03d172120d5cd4f403aa7a4c716dc3d83da0f

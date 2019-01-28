@@ -25,6 +25,8 @@ url: "https://ferrolho.github.io" # the base hostname & protocol for your site
 github_username:    jekyll
 instagram_username: jekyllrb
 twitter_username:   jekyllrb
+ignore :
+README.md
 
 # Build settings
 markdown: kramdown
